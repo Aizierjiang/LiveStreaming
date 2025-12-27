@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
 title: Live Streaming
 description: ""
+
+plugins:
+  - jekyll-sitemap
